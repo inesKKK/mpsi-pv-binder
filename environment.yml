@@ -8,3 +8,4 @@ dependencies:
   - notebook
   - pip:
     - nbgitpuller
+    - graphviz
