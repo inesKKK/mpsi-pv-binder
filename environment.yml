@@ -7,7 +7,5 @@ channels:
 dependencies:
   - notebook
   - pyhon-graphviz
-  - pip
   - pip:
     - nbgitpuller
-    - graphviz
