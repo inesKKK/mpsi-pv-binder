@@ -6,5 +6,6 @@ channels:
 
 dependencies:
   - notebook
+  - pip
   - pip:
     - nbgitpuller
