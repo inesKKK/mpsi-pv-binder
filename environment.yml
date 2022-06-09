@@ -6,6 +6,5 @@ channels:
 
 dependencies:
   - notebook
-  - pyhon-graphviz
   - pip:
     - nbgitpuller
