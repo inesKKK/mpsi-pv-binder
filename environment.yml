@@ -1,6 +1,8 @@
 name: mpsi-pv-binder
 
 channels:
+  - QuantStack
   - conda-forge
+
 dependencies:
-  - python3
+  - notebook
