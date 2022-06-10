@@ -1,4 +1,4 @@
-name: mpsi-pv-binder
+name: mpsi-pv-binder-test
 
 channels:
   - QuantStack
