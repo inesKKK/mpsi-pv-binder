@@ -3,11 +3,6 @@ name: mpsi-pv-binder
 channels:
   - conda-forge
 dependencies:
-  - python
-  - numpy
+  - python3
   - pip
-  - pip:
-    - nbgitpuller
-    - sphinx-gallery
-    - pandas
-    - matplotlib
+
