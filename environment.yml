@@ -1,8 +1,10 @@
 name: mpsi-pv-binder
 
+channels:
+  - QuantStack
+  - conda-forge
+
 dependencies:
   - notebook
-  - matplotlib
-  - pip
   - pip:
     - nbgitpuller
