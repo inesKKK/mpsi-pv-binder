@@ -11,3 +11,4 @@ dependencies:
     - nbgitpuller
     - matplotlib
     - graphviz
+    - ColabTurtlePlus
