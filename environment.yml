@@ -6,6 +6,5 @@ channels:
 
 dependencies:
   - notebook
-  - matplotlib
   - pip:
     - nbgitpuller
